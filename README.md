@@ -1,1 +1,1 @@
-# CCNP
+# Networking lab
