@@ -4,7 +4,7 @@ Welcome to my Real-World Networking Lab Repository! This repository serves as a 
 
 ## About Me
 
-I'm [Your Name], a passionate networking enthusiast with a firm belief in the power of experiential learning. As I pursue my goal of achieving the coveted CCNP (Cisco Certified Network Professional) certification, I am thrilled to share with you my networking lab projects. What sets these projects apart is the fact that they are conducted on actual Cisco hardware, not in the confines of a virtual environment.
+I'm Dequesne Allan, a passionate networking enthusiast with a firm belief in the power of experiential learning. As I pursue my goal of achieving the coveted CCNP (Cisco Certified Network Professional) certification, I am thrilled to share with you my networking lab projects. What sets these projects apart is the fact that they are conducted on actual Cisco hardware, not in the confines of a virtual environment.
 
 ## Real Gear, Real Learning
 
@@ -18,7 +18,7 @@ This authentic hardware setup enables me to explore, test, and document networki
 
 ## What You'll Find Here
 
-Within this repository, you'll discover a collection of networking lab projects covering a diverse range of networking topics. These projects are not simulations; they are tangible and practical experiences, meticulously documented to help you grasp the nuances of each setup. From routing and switching to security and virtualization, each project is designed to provide hands-on insights.
+Within this repository, you'll discover a collection of networking lab projects covering a diverse range of networking topics. These projects are not simulations; they are tangible and practical experiences, documented to help you grasp the nuances of each setup. From routing and switching to security and virtualization, each project is designed to provide hands-on insights.
 
 ## How You Can Benefit
 
